@@ -16,5 +16,5 @@ y muchas más...
 
 ## 📫 Contacto
 
--[LinkedIn](https://www.linkedin.com/in/kevin-castro-0b08b135a)
--Teléfono: +56 1192 3426
+- [LinkedIn](https://www.linkedin.com/in/kevin-castro-0b08b135a)
+- Teléfono: +56 1192 3426
