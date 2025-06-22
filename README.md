@@ -1,11 +1,11 @@
-# Hola! Soy Kevin
+# Hola! Soy Kevin Castro
 
 Soy un estudiante de ingeniería en computación y un apasionado por la programación. Me gusta aprender cosas nuevas y compartir mis conocimientos con los demás. En este repositorio encontrarás algunos de mis proyectos y ejercicios de programación.
 
 ## 🚀 Tecnologías y herramientas que utilizo
 
 - Python
-- Java
+- Kotlin
 - C++
 - JavaScript / TypeScript
 - Node.js
